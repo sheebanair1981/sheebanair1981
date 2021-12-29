@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheebanair
+- 👋 Hi, I’m @sheeba
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
