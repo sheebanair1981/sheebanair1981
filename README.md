@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheeba
 - 👀 I’m interested in Python
-- 🌱 I’m currently brushing up my Python skills
+- 🌱 I’m currently upgrading my Python skills
 
 
 <!---
